@@ -3,7 +3,7 @@
 For this assignment, I used pandas to merge together school district and test score datasets, calculated average test scores, and further categorized the data so that each school's investment in their students and their performance that can be measured and compared. These data sets are found [in the resource folder.](https://github.com/ohigithub/school-and-standardized-test-report/tree/main/PyCitySchools/Resources)
 
 ## Observable Findings
-Below are a few highlights from the data. More extensive analysis is found within [the code.](https://github.com/ohigithub/school-and-standardized-test-report/blob/main/PyCitySchools/Resources/Untitled.ipynb)
+Below are a few highlights from the data. More extensive analysis is found within [the code.](https://github.com/ohigithub/school-and-standardized-test-report/blob/main/PyCitySchools/Completed.ipynb)
 I found it most interesting that in every school, regardless of whether it was a district or charter school, the average reading scores were always higher than the math scores. It's also noteworthy that the highest-performing schools are made up entirely by charter schools. Surprisingly, schools that had the highest budgets were also among the lowest-performing schools. As the final tables show, the most impactful factor in a student's test score success is based on the size of the school being <2000 and type of schools being charter.
 
 ### District Summary
